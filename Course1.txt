@@ -1,0 +1,6 @@
+Issac
+MSC AI ML
+Learnings
+1.git commands push ,init
+2.Open source
+3.Clone
